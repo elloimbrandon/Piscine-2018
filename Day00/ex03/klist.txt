@@ -1,0 +1,6 @@
+Credentials cache: API:40998
+        Principal: brfeltz@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 23 15:44:29 2018  Oct 24 01:44:29 2018  krbtgt/42.US.ORG@42.US.ORG
+Oct 23 15:44:46 2018  Oct 24 01:44:29 2018  ldap/ldap-master.42.us.org@42.US.ORG

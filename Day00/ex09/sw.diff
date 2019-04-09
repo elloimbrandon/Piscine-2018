@@ -1,0 +1,18 @@
+1,2c1,8
+  2 < STARWARS
+  3 < Episode IV, A NEW HOPE It is a period of civil war.
+  4 ---
+  5 > Episode V, A NEW H0PE It is a period of civil war
+  6 > Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galacti    c Empire.
+  7 > During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the ST    AR DEATH, an armored space station with enough power to destroy an entire planet.
+  8 >
+  9 >
+ 10 > Pursued by the Empire's sinister agents,
+ 11 > Princess Mehdi races home aboard her starship, custodian of the stolen plans that can save her peopl    e and restore the dictatorship to the galaxie..
+ 12 >
+ 13 4,6d9
+ 14 < Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galacti    c Empire.
+ 15 < During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the DE    ATH STAR,
+ 16 < an armored space station with enough power to destroy an entire planet.
+ 17 8d10
+ 18 < Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of     the stolen plans that can save her people and restore freedom to the galaxy...
